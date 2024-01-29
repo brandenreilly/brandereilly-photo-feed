@@ -1,0 +1,44 @@
+/** {
+    border: 1px dashed red;
+    min-height: 10px;
+}*/
+
+body {
+    margin: 0;
+    background-color: #EAEAEA;
+}
+header {
+    text-align: center;
+    background-color: white;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+section {
+    background: #EAEAEA;
+    padding-top: 20px;
+}
+.Postbox {
+    background-color: white;
+    margin: auto;
+    width: 600px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.header {
+    padding: 15px;
+}
+.header h2 {
+    font-size: 20px;
+    margin: 0;
+}
+.header .date {
+    float:right;
+    margin: 0;
+    display: inline;
+}
+.info {
+    padding: 15px
+}
+img {
+    width: 100%
+}
